@@ -6,7 +6,7 @@
 
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -14,7 +14,7 @@ I am a B.Tech Computer Science & Engineering student at Noida International Univ
 
 I am focused on building clean, responsive, and user-friendly web applications.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -25,35 +25,6 @@ I am focused on building clean, responsive, and user-friendly web applications.
 - Java
 - Git & GitHub
 
----
-
-## 💼 Experience
-
-### 🌐 Web Development Intern — Infotact Solutions
-
-**Aug 2025 – Sep 2025 | Remote**
-
-Worked on web development projects using HTML, CSS, JavaScript, and modern web technologies.
-
-### 🌐 Web Development Intern — Cognifyz Technologies
-
-Completed web development tasks across Level 1, Level 2, and Level 3.
-
----
-
-## 📂 Projects
-
-### 🎲 Snake and Ladder Game
-
-🔗 [View on GitHub](https://github.com/priyesh-kumar45/Snake-and-Ladder-Game)
-
-### 🎵 Music Player
-
-🔗 [View on GitHub](https://github.com/priyesh-kumar45/MUSIC-PLAYER-.PROJECT)
-
-### 💼 Cognifyz Internship Projects
-
-🔗 [View on GitHub](https://github.com/priyesh-kumar45/Cognifyz_Internship)
 
 ### 🌐 Personal Portfolio
 
@@ -61,15 +32,7 @@ Completed web development tasks across Level 1, Level 2, and Level 3.
 
 🌍 [Live Portfolio](https://priyesh-kumar45.github.io/My-personal-portfolio-website/)
 
----
 
-## 📜 Certification
-
-### 🏆 Web Development Internship — Cognifyz Technologies
-
-📜 [View Certificate](https://github.com/priyesh-kumar45/My-personal-portfolio-website/blob/main/Internship%20Completion%20Certificate.png)
-
----
 
 ## 🎓 Education
 
@@ -79,7 +42,7 @@ Noida International University
 
 ⭐ **CGPA: 7.79 / 10**
 
----
+
 
 ## 🔗 Connect With Me
 
@@ -89,6 +52,6 @@ Noida International University
 
 🌐 [Portfolio](https://priyesh-kumar45.github.io/My-personal-portfolio-website/)
 
----
+
 
 ⭐ Code • Learn • Build • Repeat ⭐
